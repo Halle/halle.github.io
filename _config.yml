@@ -3,7 +3,7 @@ tagline:          Information TK.
 description:      Describe your website.
 canonical: http://www.fenceking.org
 image: 
-        feature: wren2.jpg
+        feature: images/wren2.jpg
 # Owner/author information
 owner:
   name:           Halle Winkler
