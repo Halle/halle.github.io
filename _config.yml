@@ -1,2 +1,3 @@
 name: Fence King
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
