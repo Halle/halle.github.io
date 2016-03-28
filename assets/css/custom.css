@@ -15,9 +15,9 @@
 and (min-device-width : 320px) 
 and (max-device-width : 568px) 
 and (orientation : portrait) { 
-.tagline {
-	width:280px;
-	font-size:1.5em;
+	.tagline {
+		width:280px;
+		font-size:1.5em;
 	}
 }
 
@@ -25,8 +25,8 @@ and (orientation : portrait) {
 and (min-device-width : 320px) 
 and (max-device-width : 480px) 
 and (orientation : portrait) { 	
-.tagline {
-	width:280px;
-	font-size:1.5em; 
+	.tagline {
+		width:280px;
+		font-size:1.5em; 
 	}
 }

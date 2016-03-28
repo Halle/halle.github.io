@@ -1,0 +1,1 @@
+## If you read the saga backwards, it tells a different story: long after the Christianization of Western, Central and Eastern Europe, this was still a pagan place. Over a millenium after the founding of Londinium and the settlement of the Parisii, there was no city here, only settlements.
