@@ -1,5 +1,5 @@
 title:            Fence King
-tagline:          Information TK.
+tagline:          “Thou art lessened by that,” said the wren, when he dipped his beak in the sea.
 description:      Describe your website.
 canonical: http://www.fenceking.org
 image: 
@@ -26,9 +26,6 @@ links:
   - title: About
     url: /about
     external: true
-  - title: Fence King
-    url: http://www.fenceking.org
-    external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
