@@ -34,7 +34,7 @@ In the heart of the forest I started to see eerie piles of sticks, and I was hap
 
 ![Sticks](/images/Sticks.png "Sticks")
 
-The forest has always been a dangerous place, which is why the stories are set there. In the Grunewald you could be trampled by wild boar, but you could also be mugged. You can meet strange people in any forest. The forest is dangerous because it's large and you're isolated, and city person will tell you that risk is easier to manage where there are bodegas to duck into. On the other hand, the forest is one of the only places where it's acceptable to equip a branch taller than yourself with a heavy knurl at the top on the pretext of walking with it, if you're unsettled. But you may end up as the strange person in someone else's forest story.
+The forest has always been a dangerous place, which is why the stories are set there. In the Grunewald you could be trampled by wild boar, but you could also be mugged. You can meet strange people in any forest. The forest is dangerous because it's large and you're isolated, and any city person will tell you that risk is easier to manage where there are bodegas to duck into. On the other hand, the forest is one of the only places where it's acceptable to equip a branch taller than yourself with a heavy knurl at the top on the pretext of walking with it, if you're unsettled. But you may end up as the strange person in someone else's forest story.
 
 At the end of a long logging road, two hours in, I saw a milestone for my destination, Schildhorn.
 
