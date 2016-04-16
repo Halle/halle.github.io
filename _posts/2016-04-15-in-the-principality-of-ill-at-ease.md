@@ -5,7 +5,7 @@ description: "A forest story."
 categories:
 date: 2016-04-15
 image: 
-        feature: wren2.jpg
+        feature: http://www.fenceking.org/images/wren2.jpg
 ---
 
 *1.*
