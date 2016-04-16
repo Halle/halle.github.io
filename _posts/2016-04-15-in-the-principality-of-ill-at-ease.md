@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: In the Principality of Ill-At-Ease
 description: "A forest story."
-categories: articles
+categories:
 date: 2016-04-15
 image: 
         feature: wren2.jpg
